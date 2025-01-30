@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Aakrati Jangid and I'm a Devpos ,Python Developer</h2>
+<h2 align="left">Hi 👋! My name is  Aakrati Jangid and I'm a Devops ,Python Developer</h2>
 
 ###
 
